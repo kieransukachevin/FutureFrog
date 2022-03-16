@@ -1,0 +1,177 @@
+Exporter version: 2.93.5, Blender version: 3.0.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  /Users/kieran/development/FutureFrog/
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Cube
+		WARNING: No materials have been assigned: 
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  0
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.001
+		WARNING: No materials have been assigned: 
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  0
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.003
+		WARNING: No materials have been assigned: 
+		num positions      :  35
+		num normals        :  35
+		num tangents       :  0
+		num uvs            :  70
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.004
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.005
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.007
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.006
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.008
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.012
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.011
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.013
+		WARNING: No materials have been assigned: 
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.016
+		animation processing begun
+			processing action Cube.016Action:  in[0 - 5], out[0 - 5]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.015
+		animation processing begun
+			processing action Cube.015Action:  in[0 - 5], out[0 - 5]
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.014
+		animation processing begun
+			processing action Cube.014Action:  in[0 - 5], out[0 - 5]
+		WARNING: No materials have been assigned: 
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.002
+		animation processing begun
+			processing action Cube.002Action:  in[24 - 24], out[0 - 24]
+		WARNING: No materials have been assigned: 
+		num positions      :  35
+		num normals        :  35
+		num tangents       :  0
+		num uvs            :  70
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Cube
+	writing mesh:  Cube.001
+	writing mesh:  Cube.003
+	writing mesh:  Cube.004
+	writing mesh:  Cube.005
+	writing mesh:  Cube.007
+	writing mesh:  Cube.006
+	writing mesh:  Cube.008
+	writing mesh:  Cube.012
+	writing mesh:  Cube.011
+	writing mesh:  Cube.013
+	writing mesh:  Cube.016
+	writing mesh:  Cube.015
+	writing mesh:  Cube.014
+	writing mesh:  Cube.002
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.1478 secs
